@@ -13,5 +13,5 @@ require_once 'config/routes.php';
 
  ?>
  
-
+<h1>nGAN NE</h1>
  
