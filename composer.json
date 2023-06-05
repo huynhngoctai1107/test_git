@@ -1,0 +1,13 @@
+{
+    "name": "app/apppc04370",
+    "description": "pc04370",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    },
+    "authors": [{
+        "name": "pc04370"
+    }],
+    "require": {}
+}
